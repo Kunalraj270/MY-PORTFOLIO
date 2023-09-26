@@ -9,7 +9,7 @@ body {
 #bolg-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url("./CSS/IMAGE/macbook.jpg");
+    background-image: url("../CSS/IMAGE/macbook.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
